@@ -76,3 +76,6 @@ def base64_baidu(sign_old):
         B += C[E & 63];
     return B;
     pass
+sign1="3fce7b5a87d8238bc7619ea3f592b5695dde7e3c"
+sign3="d76e889b6aafd3087ac3bd56f4d4053a"
+print(base64_baidu(sign2(sign3, sign1)))

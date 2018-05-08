@@ -1,0 +1,191 @@
+{
+    "attributes": null,
+    "obj": [
+
+
+        {
+            "id": "402880a951579cfb015157a508200b7b",
+            "tmms": "公务员执行公务时，认为上级的决定或者命令有错误的，可以向上级提出改正或者撤销该决定或者命令的意见；上级不改变该决定或者命令，或者要求立即执行的，公务员( )。",
+            "rigthAnswers": "A",
+            "choiceVoList": [],
+            "ishidden": "",
+            "wjId": "402880a946db5f390146dc0b51080002",
+            "mustans": "",
+            "choicesList": [
+                {
+                    "content": "应当执行该决定或者命令",
+                    "id": "402880a951579cfb015157a508480b7c",
+                    "nexttm": "",
+                    "total": 0,
+                    "input": "0",
+                    "tmid": "402880a951579cfb015157a508200b7b",
+                    "orders": 0
+                },
+                {
+                    "content": "不应当执行该决定或者命令",
+                    "id": "402880a951579cfb015157a5086c0b7d",
+                    "nexttm": "",
+                    "total": 0,
+                    "input": "0",
+                    "tmid": "402880a951579cfb015157a508200b7b",
+                    "orders": 0
+                },
+                {
+                    "content": "应当向更高一级反映实际情况",
+                    "id": "402880a951579cfb015157a508960b7e",
+                    "nexttm": "",
+                    "total": 0,
+                    "input": "0",
+                    "tmid": "402880a951579cfb015157a508200b7b",
+                    "orders": 0
+                }
+            ],
+            "th": 501,
+            "tmlx": "only"
+        },
+        {
+            "id": "402880a951579cfb015157a4988a08c2",
+            "tmms": "进城务工的农村居民不能参加失业保险。",
+            "rigthAnswers": "错误",
+            "choiceVoList": [],
+            "ishidden": "",
+            "wjId": "402880a946db5f390146dc0b51080002",
+            "mustans": "",
+            "choicesList": [
+                {
+                    "content": "正确",
+                    "id": "402880a951579cfb015157a498b008c3",
+                    "nexttm": "",
+                    "total": 0,
+                    "input": "0",
+                    "tmid": "402880a951579cfb015157a4988a08c2",
+                    "orders": 0
+                },
+                {
+                    "content": "错误",
+                    "id": "402880a951579cfb015157a498db08c4",
+                    "nexttm": "",
+                    "total": 0,
+                    "input": "0",
+                    "tmid": "402880a951579cfb015157a4988a08c2",
+                    "orders": 0
+                }
+            ],
+            "th": 343,
+            "tmlx": "only"
+        },
+        {
+            "id": "402880a951579cfb015157a0b66d05e3",
+            "tmms": "在我国，储蓄存款是指（   ）。",
+            "rigthAnswers": "A",
+            "choiceVoList": [],
+            "ishidden": "",
+            "wjId": "402880a946db5f390146dc0b51080002",
+            "mustans": "",
+            "choicesList": [
+                {
+                    "content": "个人存款",
+                    "id": "402880a951579cfb015157a0b69005e4",
+                    "nexttm": "",
+                    "total": 0,
+                    "input": "0",
+                    "tmid": "402880a951579cfb015157a0b66d05e3",
+                    "orders": 0
+                },
+                {
+                    "content": "企业存款",
+                    "id": "402880a951579cfb015157a0b6bb05e5",
+                    "nexttm": "",
+                    "total": 0,
+                    "input": "0",
+                    "tmid": "402880a951579cfb015157a0b66d05e3",
+                    "orders": 0
+                },
+                {
+                    "content": "同业存款",
+                    "id": "402880a951579cfb015157a0b6d805e6",
+                    "nexttm": "",
+                    "total": 0,
+                    "input": "0",
+                    "tmid": "402880a951579cfb015157a0b66d05e3",
+                    "orders": 0
+                },
+                {
+                    "content": "单位存款",
+                    "id": "402880a951579cfb015157a0b72105e7",
+                    "nexttm": "",
+                    "total": 0,
+                    "input": "0",
+                    "tmid": "402880a951579cfb015157a0b66d05e3",
+                    "orders": 0
+                }
+            ],
+            "th": 158,
+            "tmlx": "only"
+        },
+        {
+            "id": "402880a951579cfb015157b761c50f03",
+            "tmms": "社会保障卡是采用了加载金融功能的复合卡，比原医保卡增加了银行贷记卡的功能.（）",
+            "rigthAnswers": "错误",
+            "choiceVoList": [],
+            "ishidden": "",
+            "wjId": "402880a946db5f390146dc0b51080002",
+            "mustans": "",
+            "choicesList": [
+                {
+                    "content": "正确",
+                    "id": "402880a951579cfb015157b761e70f04",
+                    "nexttm": "",
+                    "total": 0,
+                    "input": "0",
+                    "tmid": "402880a951579cfb015157b761c50f03",
+                    "orders": 0
+                },
+                {
+                    "content": "错误",
+                    "id": "402880a951579cfb015157b762080f05",
+                    "nexttm": "",
+                    "total": 0,
+                    "input": "0",
+                    "tmid": "402880a951579cfb015157b761c50f03",
+                    "orders": 0
+                }
+            ],
+            "th": 725,
+            "tmlx": "only"
+        },
+        {
+            "id": "402880a951579cfb015157a46a4407b7",
+            "tmms": "持卡人在省内发生社会保险关系转移时，无需换卡，所持社会保障卡在新参保地仍可继续使用。",
+            "rigthAnswers": "正确",
+            "choiceVoList": [],
+            "ishidden": "",
+            "wjId": "402880a946db5f390146dc0b51080002",
+            "mustans": "",
+            "choicesList": [
+                {
+                    "content": "正确",
+                    "id": "402880a951579cfb015157a46a6b07b8",
+                    "nexttm": "",
+                    "total": 0,
+                    "input": "0",
+                    "tmid": "402880a951579cfb015157a46a4407b7",
+                    "orders": 0
+                },
+                {
+                    "content": "错误",
+                    "id": "402880a951579cfb015157a46a8707b9",
+                    "nexttm": "",
+                    "total": 0,
+                    "input": "0",
+                    "tmid": "402880a951579cfb015157a46a4407b7",
+                    "orders": 0
+                }
+            ],
+            "th": 254,
+            "tmlx": "only"
+        }
+    ],
+    "success": true,
+    "msg": "操作成功"
+}
