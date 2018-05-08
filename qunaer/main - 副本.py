@@ -12,7 +12,6 @@ dic=['doh', 'got'  , 'dot' , 'god' , 'tod'  , 'dog' , 'lot' , 'log']
 w = ['hot']
 dic = ['doh', 'got', 'dot', 'god', 'tod', 'dog', 'lot', 'log']
 
-
 def result(word, dict):
     #revchars = word[::-1]
     # alist = revchars.split('')
